@@ -8,7 +8,7 @@
 %define		i386rel		0.1
 %define		x8664rel	0.1.0-1
 Summary:	Oracle Database Workload Replay Client
-Name:		oracle-instantclient-basic
+Name:		oracle-instantclient-tools
 Version:	11.2
 Release:	0.1
 License:	OTN (proprietary, non-distributable)
